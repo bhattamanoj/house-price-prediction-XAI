@@ -44,6 +44,9 @@ The model was trained and evaluated successfully.
 - MAE: 0.3275
 - RMSE: 0.5053
 - R2: 0.8051
+
+  <img width="1678" height="862" alt="Screenshot 2026-04-14 180949" src="https://github.com/user-attachments/assets/93ce3294-962e-4a3c-8202-e1e0752f2441" />
+
 ## Visualization
 
 ![Actual vs Predicted](actual_vs_predicted.png)
