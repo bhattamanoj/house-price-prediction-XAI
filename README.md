@@ -37,7 +37,13 @@ Run the project:
 
 ## Key Results
 This project gives a clear example of a regression workflow with explainability. It shows how a model can be used for prediction while still giving understandable information about feature importance.
+## Results
 
+The model was trained and evaluated successfully.
+
+- MAE: 0.3275
+- RMSE: 0.5053
+- R2: 0.8051
 ## Visualization
 
 ![Actual vs Predicted](actual_vs_predicted.png)
